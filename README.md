@@ -9,6 +9,6 @@
 
 GitHub 要求单个 Repository 保持在 1GB 以下, 单个文件不超过 100 MB.如果超过1GB, 可能会收到来自 GitHub 的警告.
 
-## References:
+## References
 
 - [IT-ebooks](https://github.com/fuhmmin/it-ebooks-cn)
