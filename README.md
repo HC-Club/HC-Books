@@ -1,8 +1,8 @@
 # 环创工作室学习资料
 
 # Java
-- [Java NIO](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/剑指%20offer%20题解.md)
-- [深入理解Java虚拟机：JVM高级特性与最佳实践](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20题解.md)
+- [Java NIO](https://github.com/HC-Club/HC-Books/blob/master/java/Java%20NIO.pdf)
+- [深入理解Java虚拟机：JVM高级特性与最佳实践](https://github.com/HC-Club/HC-Books/blob/master/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
 
 # 注意
 [what-is-my-disk-quota](https://help.github.com/articles/what-is-my-disk-quota/)
