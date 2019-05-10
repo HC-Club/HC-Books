@@ -3,6 +3,7 @@
 ## Java
 - [Java NIO](https://github.com/HC-Club/HC-Books/blob/master/java/Java%20NIO.pdf)
 - [深入理解Java虚拟机：JVM高级特性与最佳实践](https://github.com/HC-Club/HC-Books/blob/master/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%9AJVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf)
+- [Netty实战 电子版.pdf](https://github.com/HC-Club/HC-Books/blob/master/java/Netty%E5%AE%9E%E6%88%98%20%E7%94%B5%E5%AD%90%E7%89%88.pdf)
 
 ## 数据库
 - [Redis 实战](https://github.com/HC-Club/HC-Books/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis%E5%AE%9E%E6%88%98.pdf)
